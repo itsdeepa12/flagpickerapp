@@ -18,3 +18,10 @@
 
 ### DisplayFlags 
 > Component to display the flag
+
+
+How to Start Application:
+
+1.npm install to install all dependencies to the project.
+2.npm start to start the project
+3.open the browser and enter localhost:3000 to get the application
